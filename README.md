@@ -6,15 +6,15 @@
 
 ## 🖥️ Dashboard Previews & Architecture
 
-### Page 1: Enterprise AI Adoption & Funding Trends
+### Page 1: Enterprise AI Adoption Wave
 <img width="4150" height="2400" alt="AI on Tech Industry_pages-to-jpg-0001" src="https://github.com/user-attachments/assets/16adbc9f-1e5d-4d81-b8e6-5c86dc868cbf" />
 *Figure 1: Cross-analysis of global enterprise AI adoption velocity against venture capital funding flows into AI startups.*
 
-### Page 2: Tech Industry Labor Shifts (Layoffs)
+### Page 2: Tech Industry Shifts
 <img width="4150" height="2400" alt="AI on Tech Industry_pages-to-jpg-0002" src="https://github.com/user-attachments/assets/d6c31363-bd93-41e9-b01c-a8df143b8a31" />
 *Figure 2: Tracking industry-wide tech workforce adjustments, highlighting restructuring patterns alongside the rise of automation.*
 
-### Page 3: Global AI & Data Job Market
+### Page 3: New Opportunities
 <img width="4150" height="2400" alt="AI on Tech Industry_pages-to-jpg-0003" src="https://github.com/user-attachments/assets/b8fbe69a-594e-4dbf-a9de-454a14cece4a" />
 *Figure 3: Interactive breakdown of AI/Data roles, salary distributions, remote work trends, and in-demand skills.*
 
